@@ -1,0 +1,22 @@
+{
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "description": "Demo project for Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitmanerkar/cypressdemo.git"
+  },
+  "author": "Amit Manerkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitmanerkar/cypressdemo/issues"
+  },
+  "homepage": "https://github.com/amitmanerkar/cypressdemo#readme",
+  "devDependencies": {
+    "cypress": "^4.11.0"
+  }
+}
